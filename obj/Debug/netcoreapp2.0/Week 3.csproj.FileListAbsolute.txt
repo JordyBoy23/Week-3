@@ -1,0 +1,10 @@
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\obj\Debug\netcoreapp2.0\Week 3.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\obj\Debug\netcoreapp2.0\Week 3.AssemblyInfoInputs.cache
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\obj\Debug\netcoreapp2.0\Week 3.AssemblyInfo.cs
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\bin\Debug\netcoreapp2.0\Week 3.deps.json
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\bin\Debug\netcoreapp2.0\Week 3.runtimeconfig.json
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\bin\Debug\netcoreapp2.0\Week 3.runtimeconfig.dev.json
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\bin\Debug\netcoreapp2.0\Week 3.dll
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\bin\Debug\netcoreapp2.0\Week 3.pdb
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\obj\Debug\netcoreapp2.0\Week 3.dll
+C:\Users\Jordan Liddell\OneDrive - student.peterborough.ac.uk\Peterborough - University\Year 2\Semester 1\Object Oriented Programming - Jamie\Week 3\obj\Debug\netcoreapp2.0\Week 3.pdb
